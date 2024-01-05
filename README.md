@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MADANMS
-- 👀 I’m interested in Python,c programming
+- 👀 I’m interested in Python,Java programming
 - 🌱 I’m currently studying ECE
 - 📫 How to reach me mail: madanms0002@gmail.com
 
